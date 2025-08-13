@@ -33,7 +33,7 @@ export const Hero: React.FC = () => {
           }`}
         >
           <img
-            src="/assets/images/photoprofile1.png"
+            src="/images/photoprofile1.png"
             alt="Muhammad Yusuf Maulana"
             className="w-40 h-40 rounded-full mx-auto mb-8 border-4 border-blue-500/50 shadow-lg shadow-blue-500/20"
           />

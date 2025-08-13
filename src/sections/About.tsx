@@ -20,7 +20,7 @@ export const About: React.FC = () => {
             <div className="p-1 rounded-xl bg-gradient-to-r from-blue-600 to-purple-600">
               <div className="overflow-hidden rounded-xl">
                 <img
-                  src="/assets/images/photoprofile1.png"
+                  src="/images/photoprofile1.png"
                   alt="Muhammad Yusuf Maulana working"
                   className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-700"
                 />
